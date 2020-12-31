@@ -1,0 +1,8 @@
+StepMot	KEYWORD1
+Begin	KEYWORD2
+SetMode	KEYWORD2
+SetSpeed	KEYWORD2
+rotationByAngel	KEYWORD2
+setPosition	KEYWORD2
+setAbsolute	KEYWORD2
+setLocal	KEYWORD2
